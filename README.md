@@ -1,9 +1,16 @@
-# musical
+# Musical - A mini Vanilla JS game
+
+![image](https://raw.githubusercontent.com/sushilburagute/npm-package-portfolio/master/musical.png)
 
 A game where you tap on the tiles to get the exact score displayed to win!
 
-A basic HTML//CSS//JS app where I learnt how to use various tags and learnt some key concepts of javascript!
+A basic `HTML//CSS//JS` app where I learnt how to use various tags and learnt some key concepts of javascript!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f73535bf-5fc5-4f23-9ee6-4d171ed5118b/deploy-status)](https://app.netlify.com/sites/musical-game/deploys)
+### [🔗Play now!](https://musical-game.netlify.app)
 
-https://musical-game.netlify.app
+## Concepts Learnt
+
+1. `document.querySelector()`
+1. `addEventListener()`
+1. `document.createElement()`
+1. `appendChild()`

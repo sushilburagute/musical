@@ -49,8 +49,11 @@ window.addEventListener("load", () => {
       alert("You've just won the game! 🎉");
       totalScore = 0;
     }
-  }
-  //Function to initiate score
 
-  //save that number in score
+    // if score goes above 70
+    if (totalScore >= 70) {
+      alert("So close! Play Again 🔥");
+      totalScore = 0;
+    }
+  }
 });
